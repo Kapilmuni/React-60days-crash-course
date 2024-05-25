@@ -20,7 +20,7 @@ function Posts() {
       });
       
       setTotalPages(Math.ceil(Number(res?.headers["x-total-count"]) / 10));
-      
+      setPosts(res?.data);
       setLoading(false);
     } catch (error) {
       setError(true);
