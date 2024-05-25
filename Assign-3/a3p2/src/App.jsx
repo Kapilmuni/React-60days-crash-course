@@ -7,10 +7,10 @@ import FocusInput2 from "./components/FocusInput2";
 function App() {
   return (
     <>
-      {/* <FocusInput1 /> */}
-      {/* <FocusInput2 /> */}
+      <FocusInput1 />
+      <FocusInput2 />
       <ChangeColor1 />
-      {/* <ChangeColor2 /> */}
+      <ChangeColor2 />
     </>
   );
 }
