@@ -8,11 +8,11 @@ export function BulbContextProvider(props) {
   const [isOn, setIsOn] = useState(false);
 
   const switchOn = () => {
-    /*complete the missing code*/
+    
   };
 
   const switchOff = () => {
-    /*complete the missing code*/
+    
   };
 
   return (
