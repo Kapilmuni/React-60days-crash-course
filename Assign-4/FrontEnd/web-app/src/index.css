@@ -1,0 +1,13 @@
+#navbar{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  background-color:#E2E8F0;
+ 
+  padding: 15px;
+  text-decoration: none;
+}
+.component{
+  color: #171923;
+  text-decoration: none;
+}

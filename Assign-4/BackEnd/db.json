@@ -1,0 +1,84 @@
+{
+    "tickets": [
+        {
+            "id": 1,
+            "title": "Complete Navbar",
+            "description": "Build a logout button within navbar",
+            "assignee": "Rahul",
+            "status": "pending",
+            "priority": 0
+        },
+        {
+            "id": 2,
+            "title": "Fix Login Bug",
+            "description": "Resolve issue with user login",
+            "assignee": "Sakshi",
+            "status": "progress",
+            "priority": 7
+        },
+        {
+            "id": 3,
+            "title": "Update User Profile",
+            "description": "Add new fields to user profile page",
+            "assignee": "Sharan",
+            "status": "completed",
+            "priority": 4
+        },
+        {
+            "id": 4,
+            "title": "Improve Dashboard",
+            "description": "Redesign dashboard for better UX",
+            "assignee": "Karan",
+            "status": "pending",
+            "priority": 5
+        },
+        {
+            "id": 5,
+            "title": "Implement Search",
+            "description": "Add search functionality to the app",
+            "assignee": "Varun",
+            "status": "progress",
+            "priority": 6
+        },
+        {
+            "id": 6,
+            "title": "Optimize Performance",
+            "description": "Improve app load time",
+            "assignee": "Sakshi",
+            "status": "completed",
+            "priority": 2
+        },
+        {
+            "id": 7,
+            "title": "Add Notifications",
+            "description": "Implement notification system",
+            "assignee": "Sharan",
+            "status": "pending",
+            "priority": 8
+        },
+        {
+            "id": 8,
+            "title": "Refactor Codebase",
+            "description": "Clean up and organize code",
+            "assignee": "Karan",
+            "status": "progress",
+            "priority": 3
+        },
+        {
+            "id": 9,
+            "title": "Write Unit Tests",
+            "description": "Create unit tests for all modules",
+            "assignee": "Varun",
+            "status": "completed",
+            "priority": 9
+        },
+        {
+            "id": 10,
+            "title": "Set Up CI/CD",
+            "description": "Implement continuous integration and delivery",
+            "assignee": "Sakshi",
+            "status": "progress",
+            "priority": 1
+        }
+    ]
+}
